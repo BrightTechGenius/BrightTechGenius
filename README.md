@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @BrightTechGenius
-- 👀 I’m interested in Data Analytics, Machine Learning, Artificial Intelligence, Web development and Software Engineering
-- 🌱 I’m currently learning Data Analytics, ML, AI and Software Engineering
-- 💞️ I’m looking to collaborate on any project on Data Analytics, ML, AI and Software Engineering
+- 👋 Hi, I am @BrightTechGenius
+- 👀 I am a Data Analytics, Machine Learning and Artificial Intelligence enthusiast.
+- 🌱 I am a certified Data Analyst.
+- 💞️ I look forward to collaborate on any project on Data Analytics, ML, AI.
 - 📫 How to reach me brightntiyeboah@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I don’t do anything extraordinary to be successful, I just simply do normal things in an extraordinary way✍🏽
